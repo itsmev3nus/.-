@@ -1,0 +1,10 @@
+4 atributos;
+- Inteligencia
+- Passatempo 
+- Fotografia 
+- Cozinha
+
+3 Metodos;
+- Pessoa que estuda, estudo.
+- Leituras, andar de bicicleta, andar a cavalo
+- Fotos tiradas por uma camera, paisagens, pessoas. 
